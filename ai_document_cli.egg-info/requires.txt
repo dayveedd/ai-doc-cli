@@ -1,0 +1,5 @@
+google-genai
+rich
+markdown
+weasyprint
+python-dotenv

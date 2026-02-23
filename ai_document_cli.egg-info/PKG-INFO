@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ai-document-cli
+Version: 0.1.0
+Summary: A CLI tool to generate and format professional PDFs using Gemini AI.
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: google-genai
+Requires-Dist: rich
+Requires-Dist: markdown
+Requires-Dist: weasyprint
+Requires-Dist: python-dotenv

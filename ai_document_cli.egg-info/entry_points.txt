@@ -1,0 +1,2 @@
+[console_scripts]
+ai-doc = ai_doc.main:main
